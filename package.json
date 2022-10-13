@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "private": true,
   "description": "Antichess Variants Server",
+  "engines": {
+    "node": "18.x"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/SriMethan/liantichess.git"
